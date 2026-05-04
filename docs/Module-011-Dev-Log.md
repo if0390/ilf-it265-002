@@ -1,48 +1,35 @@
-\## Name: Ibeth Fernandez
+## Name: Ibeth Fernandez
+### Module: 11
 
-\### Module: 11
+---
 
+### Date: 05/3/2026
 
-
-\---
-
-
-
-\### Date: 05/3/2026
-
-
-
-\#### Goals for this Module
-
-\- \[x] Complete the Game Design Document (GDD)
-
-\- \[x] Create a ScriptableObject for card data in Unity
-
-\- \[x] Set up the basic game scene and board layout
-
-\- \[ ] Get a card displaying on screen with world state toggle
-
-
+#### Goals for this Module
+- [x] Complete the Game Design Document (GDD)
+- [x] Create a ScriptableObject for card data in Unity
+- [x] Set up the basic game scene and board layout
+- [ ] Get a card displaying on screen with world state toggle
 
 \#### Progress
 
 \- \*\*What I accomplished\*\*:
 
-&#x20; - Completed the Game Design Document using the template — filled out sections covering the game overview, target audience, core mechanics, win conditions, turn structure, and card types.
+- Completed the Game Design Document using the template — filled out sections covering the game overview, target audience, core mechanics, win conditions, turn structure, and card types.
 
-&#x20; - Created a `CardData` ScriptableObject in Unity with fields for card name, Dream effect description, and Nightmare effect description. Can now create individual card assets directly in the Unity editor.
+- Created a `CardData` ScriptableObject in Unity with fields for card name, Dream effect description, and Nightmare effect description. Can now create individual card assets directly in the Unity editor.
 
-&#x20; - Set up the main game scene with a basic board layout placeholder panels for the five locations (The Dream, Forgotten Garden, Shattered Ballroom, Hollow Library, Mirror Gate), a world state indicator area, and a Consumed pile counter.
+- Set up the main game scene with a basic board layout placeholder panels for the five locations (The Dream, Forgotten Garden, Shattered Ballroom, Hollow Library, Mirror Gate), a world state indicator area, and a Consumed pile counter.
 
 \- \*\*Challenges faced\*\*:
 
-&#x20; - The GDD template covers a lot of ground and it wasn't always clear what level of detail was needed for each section.
+- The GDD template covers a lot of ground and it wasn't always clear what level of detail was needed for each section.
 
-&#x20; - Figuring out how much to write vs. how much is still unknown.
+- Figuring out how much to write vs. how much is still unknown.
 
 \- \*\*Solutions\*\*:
 
-&#x20; - For sections that were hard to fill out, focused on writing what is known for certain.
+- For sections that were hard to fill out, focused on writing what is known for certain.
 
 
 
@@ -63,4 +50,3 @@
 \- The board layout made it clear that the five locations need connecting lines or arrows between them so players can see which locations are adjacent — important for the Move phase of each turn.
 
 \- The GDD also helped clarify a few rules that were still fuzzy — writing things down forces you to be specific in a way that casual brainstorming doesn't.
-
