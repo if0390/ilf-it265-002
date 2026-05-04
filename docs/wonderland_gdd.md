@@ -308,11 +308,11 @@ The interface is the primary gameplay surface. Players see:
 
 
 
-\## 8. Game World
+\## 6. Game World
 
 
 
-\### 8.1. Look \& Feel of the world
+\### 6.1. Look \& Feel of the world
 
 
 
@@ -320,7 +320,7 @@ A small, claustrophobic realm — five named locations, each tied to a fairytale
 
 
 
-\### 8.2. Locations
+\### 6.2. Locations
 
 
 
